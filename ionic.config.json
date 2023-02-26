@@ -1,0 +1,7 @@
+{
+  "name": "Project_cria",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
